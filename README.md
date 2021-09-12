@@ -1,2 +1,1 @@
-# yue-Wang.githhub.io
-Map of my favorite destination.
+Map of my favorite destination
